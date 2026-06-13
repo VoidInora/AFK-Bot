@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "wizardsland.aternos.me",
-    "port": 51009,
+    "ip": "play.kingdomog.fun",
+    "port": 25571,
     "version": "",
     "try-creative": false
   },
