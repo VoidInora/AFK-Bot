@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "play.kingdomog.fun",
-    "port": 25571,
+    "ip": "Play.kingdomog.fun",
+    "port": 25585,
     "version": "",
     "try-creative": false
   },
